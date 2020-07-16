@@ -1,0 +1,3 @@
+Hello this is shubham ikhar
+This is general text file.
+which we are going to compress into gzip format
